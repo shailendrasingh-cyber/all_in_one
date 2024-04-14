@@ -1,3 +1,4 @@
 streamlit
 PyMuPDF
-googletrans
+googletrans==4.0.0-rc1
+
